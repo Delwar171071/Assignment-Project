@@ -1,0 +1,44 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+h1{
+    font-size: 30px;
+}
+h4{
+    font-size:5% ;
+}
+.name-highlight {
+    color: tomato;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+    
+}
+.link-button{
+    padding: 15px 35px;
+    background-color:tomato;
+    border-radius: 7%;
+    color: white;
+}
+.center{
+    color: orange;
+}
+.working-project{
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 2%;
+    padding-left: 2%;
+}
+.third-bottom img{
+    width: 100%;
+    float: left;
+       
+}
